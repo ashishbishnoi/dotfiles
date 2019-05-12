@@ -1,0 +1,3 @@
+#!/bin/bash
+read -p "Enter Subtrack/Subid to keep: " subid
+for file in *mkv; do mkvmerge -o "${file%.mkv}".nosubs.mkv --subtitle-tracks $subid "$file" && rm "$file" && rename 's/ .nosubs//' *.mkv; done

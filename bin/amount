@@ -1,0 +1,11 @@
+#!/bin/bash
+jmtpfs
+echo
+echo "Allow MTP acces on your Phone."
+sleep 9
+if [ -d /andro ] 
+then 
+   jmtpfs /andro
+else
+   echo "Creating directory /andro for mounting" && mkdir /andro && jmtpfs /andro 
+fi

@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/tux/Pictures/n.png"
+let background = "#0a0b0d"
+let foreground = "#c3c8cc"
+let cursor     = "#c3c8cc"
+
+" Colors
+let color0  = "#0a0b0d"
+let color1  = "#545C68"
+let color2  = "#997D5A"
+let color3  = "#375E8A"
+let color4  = "#577290"
+let color5  = "#718AA3"
+let color6  = "#779AC3"
+let color7  = "#c3c8cc"
+let color8  = "#888c8e"
+let color9  = "#545C68"
+let color10 = "#997D5A"
+let color11 = "#375E8A"
+let color12 = "#577290"
+let color13 = "#718AA3"
+let color14 = "#779AC3"
+let color15 = "#c3c8cc"

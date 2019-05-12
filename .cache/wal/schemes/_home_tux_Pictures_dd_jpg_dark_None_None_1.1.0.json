@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tux/Pictures/dd.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0d0f",
+        "foreground": "#b0c5d8",
+        "cursor": "#b0c5d8"
+    },
+    "colors": {
+        "color0": "#0a0d0f",
+        "color1": "#2E536F",
+        "color2": "#42607B",
+        "color3": "#355E83",
+        "color4": "#3A6689",
+        "color5": "#487295",
+        "color6": "#5F8AAE",
+        "color7": "#b0c5d8",
+        "color8": "#7b8997",
+        "color9": "#2E536F",
+        "color10": "#42607B",
+        "color11": "#355E83",
+        "color12": "#3A6689",
+        "color13": "#487295",
+        "color14": "#5F8AAE",
+        "color15": "#b0c5d8"
+    }
+}

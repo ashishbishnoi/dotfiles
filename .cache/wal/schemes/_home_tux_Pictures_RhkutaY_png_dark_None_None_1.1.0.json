@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tux/Pictures/RhkutaY.png",
+    "alpha": "100",
+    "special": {
+        "background": "#211034",
+        "foreground": "#ddd1e9",
+        "cursor": "#ddd1e9"
+    },
+    "colors": {
+        "color0": "#211034",
+        "color1": "#AC88B7",
+        "color2": "#E28AB7",
+        "color3": "#9EA3D2",
+        "color4": "#B0ABD8",
+        "color5": "#DAADD7",
+        "color6": "#F4B1D5",
+        "color7": "#ddd1e9",
+        "color8": "#9a92a3",
+        "color9": "#AC88B7",
+        "color10": "#E28AB7",
+        "color11": "#9EA3D2",
+        "color12": "#B0ABD8",
+        "color13": "#DAADD7",
+        "color14": "#F4B1D5",
+        "color15": "#ddd1e9"
+    }
+}

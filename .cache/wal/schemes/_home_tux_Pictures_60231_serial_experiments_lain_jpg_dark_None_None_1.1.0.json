@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tux/Pictures/60231_serial_experiments_lain.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#030202",
+        "foreground": "#d5cbbd",
+        "cursor": "#d5cbbd"
+    },
+    "colors": {
+        "color0": "#030202",
+        "color1": "#A35A6C",
+        "color2": "#C16A7F",
+        "color3": "#AD887C",
+        "color4": "#BC7B81",
+        "color5": "#D0758A",
+        "color6": "#E27C95",
+        "color7": "#d5cbbd",
+        "color8": "#958e84",
+        "color9": "#A35A6C",
+        "color10": "#C16A7F",
+        "color11": "#AD887C",
+        "color12": "#BC7B81",
+        "color13": "#D0758A",
+        "color14": "#E27C95",
+        "color15": "#d5cbbd"
+    }
+}

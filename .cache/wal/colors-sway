@@ -1,0 +1,21 @@
+set $wallpaper /home/tux/Pictures/n.png
+
+set $background #0a0b0d
+set $foreground #c3c8cc
+
+set $color0 #0a0b0d
+set $color1 #545C68
+set $color2 #997D5A
+set $color3 #375E8A
+set $color4 #577290
+set $color5 #718AA3
+set $color6 #779AC3
+set $color7 #c3c8cc
+set $color8 #888c8e
+set $color9 #545C68
+set $color10 #997D5A
+set $color11 #375E8A
+set $color12 #577290
+set $color13 #718AA3
+set $color14 #779AC3
+set $color15 #c3c8cc

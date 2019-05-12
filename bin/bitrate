@@ -1,0 +1,1 @@
+ find . -type f -iname "*.mkv" -exec ffprobe -hide_banner > mkvinfo.txt 2>&1 {} \; && grep -i -E "\.mkv|bitrate" mkvinfo.txt

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/tux/Pictures/wallhaven-767892.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0c0f",
+        "foreground": "#b0c5d8",
+        "cursor": "#b0c5d8"
+    },
+    "colors": {
+        "color0": "#0a0c0f",
+        "color1": "#2E516F",
+        "color2": "#42607A",
+        "color3": "#365E82",
+        "color4": "#3A6589",
+        "color5": "#487296",
+        "color6": "#5F8AAE",
+        "color7": "#b0c5d8",
+        "color8": "#7b8997",
+        "color9": "#2E516F",
+        "color10": "#42607A",
+        "color11": "#365E82",
+        "color12": "#3A6589",
+        "color13": "#487296",
+        "color14": "#5F8AAE",
+        "color15": "#b0c5d8"
+    }
+}

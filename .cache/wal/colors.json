@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/tux/Pictures/n.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0a0b0d",
+        "foreground": "#c3c8cc",
+        "cursor": "#c3c8cc"
+    },
+    "colors": {
+        "color0": "#0a0b0d",
+        "color1": "#545C68",
+        "color2": "#997D5A",
+        "color3": "#375E8A",
+        "color4": "#577290",
+        "color5": "#718AA3",
+        "color6": "#779AC3",
+        "color7": "#c3c8cc",
+        "color8": "#888c8e",
+        "color9": "#545C68",
+        "color10": "#997D5A",
+        "color11": "#375E8A",
+        "color12": "#577290",
+        "color13": "#718AA3",
+        "color14": "#779AC3",
+        "color15": "#c3c8cc"
+    }
+}
