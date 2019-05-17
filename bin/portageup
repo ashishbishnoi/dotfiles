@@ -1,0 +1,25 @@
+#!/bin/bash
+
+#Bash script to autowrite portage files
+PAC="/etc/portage/._*_package.accept_keywords"
+NPAC="/etc/portage/package.accept_keywords"
+PU
+NPU="/etc/portage/package.use/zz-autounmsak"
+
+if [ -f $PAC ];
+then
+	echo "package.accept_keywords need updates."
+	mv $PAC $NPAC
+else
+	echo "package.accept_keywords need not updates."
+fi
+
+
+if [ -f $PU ];
+then
+        echo "package.use need updates."
+        mv $PU $NPU
+else
+        echo "package.use need not updates."
+fi
+
